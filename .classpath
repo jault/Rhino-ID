@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="junk/" kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Jault/workspace/Rhino Finda/jfxrt.jar"/>
+	<classpathentry kind="lib" path="xuggle-xuggler-5.4.jar"/>
+	<classpathentry kind="lib" path="slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="lib" path="slf4j-simple-1.7.7.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Jault/workspace/Rhino Finda/ij.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
